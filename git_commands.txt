@@ -1,0 +1,7 @@
+git remote -v
+git status
+git remote set-url origin https://ghp_Qr5GJWRZXgzDY… 
+git remove -v
+git remote -v
+git push origin master
+history
